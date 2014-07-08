@@ -18,8 +18,8 @@ SRC_URI[jaxws.md5sum] = "f6eb8fcbf99d0914149b0e2deac0e34c"
 SRC_URI[jaxws.sha256sum] = "b149c1fab323a586eae9b4459ccd929f0db8b35769e42dd7f4fbadc48b803dab"
 
 JDK_CHANGESET = "b1137978a25e"
-SRC_URI[jdk.md5sum] = "203fc442d5f2e05123e1af3ad07f38c8"
-SRC_URI[jdk.sha256sum] = "c5b1fb71fa4b1dad45d302f77a9acbabb667936a3d149369af9613ddf52cebf5"
+SRC_URI[jdk.md5sum] = "74df5197aee3d9b91b0d901627b57ba7"
+SRC_URI[jdk.sha256sum] = "509fb266436bfda9cf7e9db27e93a06d00654e7298e4055ff8a84c620844fb13"
 
 LANGTOOLS_CHANGESET = "6c9b532f4281"
 SRC_URI[langtools.md5sum] = "e932425860de3b52358cff66b9ceadbf"

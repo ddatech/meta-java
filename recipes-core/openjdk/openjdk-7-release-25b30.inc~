@@ -14,7 +14,6 @@ ARM_INSTRUCTION_SET_armv4t = "ARM"
 ICEDTEA_URI = "http://icedtea.wildebeest.org/download/source/${ICEDTEA}.tar.gz;name=iced"
 
 ICEDTEA_PREFIX = "icedtea7-forest-2.3"
-ICEDTEA_CHG_PREFIX = "icedtea7-forest"
 ICEDTEA_HG_URL = "http://icedtea.classpath.org/hg/release/${ICEDTEA_PREFIX}"
 ICEDTEA_CHG_URL = "http://icedtea.classpath.org/hg/${ICEDTEA_CHG_PREFIX}"
 
